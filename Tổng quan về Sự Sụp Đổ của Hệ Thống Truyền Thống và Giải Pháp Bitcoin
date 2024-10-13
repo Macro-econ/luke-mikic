@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Tổng quan về sự sụp đổ của hệ thống truyền thống và giải pháp Bitcoin của Luke Mikic" />
+        <meta name="author" content="Luke Mikic" />
+        <title>Tổng quan về Sự Sụp Đổ của Hệ Thống Truyền Thống và Giải Pháp Bitcoin</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="#!">Luke Mikic</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Chuyển đổi điều hướng"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#">Trang Chủ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">Giới Thiệu</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">Liên Hệ</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Blog</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-8">
+                    <!-- Post content-->
+                    <article>
+                        <!-- Post header-->
+                        <header class="mb-4">
+                            <!-- Post title-->
+                            <h1 class="fw-bolder mb-1">Tổng quan Ngắn gọn về Sự Sụp Đổ của Hệ Thống Truyền Thống và Giải Pháp Tiềm Năng (Bitcoin)</h1>
+                            <!-- Post meta content-->
+                            <div class="text-muted fst-italic mb-2">Đăng vào ngày 1 tháng 1, 2023 bởi Luke Mikic</div>
+                            <!-- Post categories-->
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!">Kinh Tế</a>
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!">Bitcoin</a>
+                        </header>
+                        <!-- Preview image figure-->
+                        <figure class="mb-4"><img class="img-fluid rounded" src="assets/bitcoin.jpg" alt="Bitcoin" /></figure>
+                        <!-- Post content-->
+                        <section class="mb-5">
+                            <h2 class="fw-bolder mb-4 mt-5">A. <a href="https://medium.com/@luke.mikic88/the-50th-anniversary-of-the-fiat-fiasco-1971-2021-121d56d7dca1">Kỷ Niệm 50 Năm Sự Thất Bại của Tiền Pháp Định 1971–2021</a></h2>
+
+                            <h3>1. Sự Kết Thúc của Tiêu Chuẩn Vàng (Chuyện Gì Đã Xảy Ra Năm 1971?)</h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Sự sụp đổ của tiêu chuẩn vàng năm 1971 đánh dấu sự khởi đầu của hệ thống tiền tệ pháp định hiện đại, nơi đồng đô la không còn được đảm bảo bằng vàng. Sự thay đổi này cho phép việc in tiền không giới hạn, dẫn đến hậu quả lạm phát dài hạn.</li>
+                                <li><strong>Ví Dụ</strong>: Đồng đô la Mỹ thực chất đã tách rời khỏi vàng, khiến các đồng tiền toàn cầu tự do thả nổi, khơi mào cho việc phá giá cạnh tranh và lạm phát.</li>
+                            </ul>
+
+                            <h3>2. Lạm Phát Thập Niên 1970 và Sự Thao Túng CPI</h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Vào thập niên 1970, các nhà hoạch định chính sách đã thao túng các chỉ số lạm phát như Chỉ số Giá Tiêu dùng (CPI) để giảm thiểu mức độ nghiêm trọng của lạm phát, loại bỏ các mặt hàng quan trọng như năng lượng và thực phẩm khỏi chỉ số.</li>
+                                <li><strong>Ví Dụ</strong>: Lạm phát CPI chính thức trong thập niên 1970 được giữ ở mức thấp giả tạo mặc dù lạm phát tràn lan, đạt tỷ lệ tích lũy trên 100% trong thập kỷ đó.</li>
+                            </ul>
+
+                            <h3>3. Sự Phát Triển của Các Bong Bóng Tài Sản</h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Kể từ thập niên 1970, hệ thống tiền tệ pháp định đã cho phép tạo ra các bong bóng tài sản trong các lĩnh vực như nhà ở và thị trường chứng khoán, được thúc đẩy bởi lãi suất thấp giả tạo và nới lỏng định lượng.</li>
+                                <li><strong>Ví Dụ</strong>: Bong bóng nhà ở năm 2008 và "bong bóng tất cả" đang diễn ra vào năm 2020 đều bị làm trầm trọng thêm bởi các chính sách của ngân hàng trung ương và sự mất giá của tiền pháp định.</li>
+                            </ul>
+
+                            <h3>4. Bất Bình Đẳng Giàu Nghèo và Chính Sách Tiền Tệ Dễ Dãi</h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Người giàu ngày càng giàu hơn trong khi sức mua của tầng lớp trung lưu và thấp kém đi, do các đồng tiền pháp định mất giá và giá tài sản tăng.</li>
+                                <li><strong>Ví Dụ</strong>: Top 1% nắm giữ một phần tài sản không cân xứng vì họ có thể đầu tư vào các tài sản chống lạm phát, trong khi 50% dưới cùng phải vật lộn với mức lương trì trệ và sức mua giảm.</li>
+                            </ul>
+
+                            <h2 class="fw-bolder mb-4 mt-5">B. Các Cuộc Chiến Tiền Tệ Toàn Cầu Thập Niên 2020</h2>
+
+                            <h3><a href="https://medium.com/@luke.mikic88/the-2020s-global-currency-wars-9cc6a53ff6de">Phần 1 - Liệu Đế Chế Mỹ Có Phải Là Tương Tự Tốt Nhất Cho La Mã Giai Đoạn Cuối?</a></h3>
+
+                            <h4>1. Sự Chết Chóc của Thí Nghiệm Petrodollar Vĩ Đại</h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Mặc dù hệ thống petrodollar đang đối mặt với những thách thức, đồng đô la Mỹ có thể duy trì vị thế là đồng tiền dự trữ toàn cầu lâu hơn dự kiến.</li>
+                                <li><strong>Ví Dụ</strong>: Dù các quốc gia BRICS cố gắng tạo ra các lựa chọn thay thế, Mỹ vẫn giữ vị trí thống trị trong tài chính toàn cầu, với 59% dự trữ ngoại hối bằng đồng đô la Mỹ.</li>
+                            </ul>
+
+                            <h4>2. Bretton Woods 3 và Trật Tự Thế Giới Đang Thay Đổi</h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Trật tự tài chính toàn cầu đang thay đổi, với các mô hình kinh tế mới nổi lên, đặc biệt khi hệ thống petrodollar suy yếu. Các nhà kinh tế như Ray Dalio dự đoán sự suy giảm của đế chế Mỹ, trong khi Zoltan Pozsar cho rằng chúng ta đang bước vào kỷ nguyên mới—Bretton Woods 3.</li>
+                                <li><strong>Ví Dụ</strong>: Dự đoán của Dalio là Trung Quốc sẽ nổi lên như siêu cường toàn cầu mới, thay thế Mỹ. Điều này phản ánh các chuyển đổi toàn cầu trước đây khi các đế chế mới thay thế những đế chế cũ đang suy tàn.</li>
+                            </ul>
+
+                            <h4>3. Những Nguy Hiểm của Phi Toàn Cầu Hóa và Nhân Khẩu Học</h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Phi toàn cầu hóa, nợ nần và nhân khẩu học (ba chữ "D") sẽ có tác động đáng kể đến các nền kinh tế toàn cầu. Sự sụp đổ của toàn cầu hóa có thể gây hại không cân xứng cho các quốc gia như Trung Quốc với dân số già và phụ thuộc vào thị trường bên ngoài.</li>
+                                <li><strong>Ví Dụ</strong>: Khủng hoảng nhân khẩu học của Trung Quốc, kết hợp với khan hiếm năng lượng và nước, tạo ra những rào cản đáng kể cho sự tăng trưởng liên tục của họ. Bài viết nêu bật cách các chính sách của Trung Quốc, như việc đảo ngược chính sách một con, cho thấy mức độ nghiêm trọng của thách thức nhân khẩu học của họ.</li>
+                            </ul>
+
+                            <h4>4. Khủng Hoảng Năng Lượng và Nước</h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Các quốc gia phụ thuộc nhiều vào than đá và các nguồn năng lượng truyền thống, như Trung Quốc, đang đối mặt với khủng hoảng nước đe dọa sự ổn định kinh tế của họ.</li>
+                                <li><strong>Ví Dụ</strong>: Trung Quốc, sản xuất 65% điện thoại thông minh của thế giới, có nguy cơ mất điện lưới do thiếu nước, vì các hệ thống năng lượng than đá, thủy điện và hạt nhân đòi hỏi lượng nước đáng kể.</li>
+                            </ul>
+
+                            <h3><a href="https://medium.com/@luke.mikic88/bitcoin-the-big-bang-to-end-all-cycles-80da5a0e3b55">Phần 2 - Bitcoin - Vụ Nổ Lớn Kết Thúc Mọi Chu Kỳ</a></h3>
+
+                            <h4>1. <strong>Hiểu Về Chu Kỳ Nợ Dài Hạn</strong></h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Chu kỳ nợ dài hạn là một khái niệm quan trọng cần nắm vững trong kinh tế vĩ mô. Ray Dalio đã phổ biến điều này trong cuốn sách "Big Debt Crises" của ông. Chu kỳ này thúc đẩy tăng trưởng và suy thoái kinh tế trong các giai đoạn kéo dài 75–100 năm.</li>
+                                <li><strong>Ví Dụ</strong>: Tỷ lệ nợ trên GDP của Mỹ đã đạt 128%, báo hiệu một sự kiện giảm nợ sắp tới. Tiền lệ lịch sử cho thấy khi các quốc gia đạt mức này, họ thường đối mặt với lạm phát, mất giá hoặc thậm chí vỡ nợ.</li>
+                            </ul>
+
+                            <h4>2. <strong>Khủng Hoảng Nợ Hiện Tại và Hyperbitcoinization</strong></h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Hệ thống tài chính hiện tại đang bị hỏng không thể cứu vãn, dẫn đến một tương lai nơi hyperbitcoinization có thể thay thế các hệ thống truyền thống. Sự thay đổi này xảy ra khi mọi người từ bỏ tiền pháp định và chuyển sang Bitcoin, "đồng tiền vững chắc nhất".</li>
+                                <li><strong>Ví Dụ</strong>: Tỷ lệ nợ trên GDP toàn cầu đang ở mức cao lịch sử, khiến cho các quốc gia như Mỹ không thể trả nợ mà không làm mất giá đồng tiền hoặc vỡ nợ.</li>
+                            </ul>
+
+                            <h4>3. <strong>So Sánh Lịch Sử với Thập Niên 1930 và 1940</strong></h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Sự sụp đổ của hệ thống tài chính hiện tại phản ánh thập niên 1930, theo sau một chu kỳ nợ dài hạn tương tự. Việc giảm nợ trong thời kỳ đó dẫn đến suy thoái kinh tế và lạm phát.</li>
+                                <li><strong>Ví Dụ</strong>: Trong thập niên 1930, nợ phi liên bang giảm từ 225% xuống 75% GDP, dẫn đến giảm đáng kể gánh nặng nợ thông qua lạm phát, giống như những gì được mong đợi ngày nay.</li>
+                            </ul>
+
+                            <h4>4. <strong>Vai Trò của Các Ngân Hàng Trung Ương</strong></h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Các ngân hàng trung ương trên toàn cầu đã sử dụng các biện pháp cực đoan như nới lỏng định lượng (QE) để ngăn chặn sự sụp đổ của hệ thống tài chính. Những hành động này đã góp phần vào sự mất giá tiền tệ mà chúng ta đang chứng kiến.</li>
+                                <li><strong>Ví Dụ</strong>: Cục Dự trữ Liên bang Mỹ sở hữu 26% tổng số trái phiếu kho bạc, trong khi Ngân hàng Trung ương Châu Âu sở hữu 45% nợ của mình. Sự can thiệp nặng nề này làm biến dạng thị trường tài chính và tăng tốc sự sụp đổ của các đồng tiền pháp định.</li>
+                            </ul>
+
+                            <h4>5. <strong>Lạm Phát và Hệ Quả Dài Hạn</strong></h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Lạm phát không còn là "tạm thời", mà là dấu hiệu cho thấy sự mất giá tiền tệ đang tăng tốc với tốc độ nhanh chóng. Ý tưởng về lạm phát "tạm thời" đã được sử dụng để đánh lừa công chúng trong khi cung tiền tăng theo cấp số nhân.</li>
+                                <li><strong>Ví Dụ</strong>: Phiếu thực phẩm ở Mỹ đã được tăng 25%, và giá thực phẩm đã tăng 50–100% so với cùng kỳ năm trước, cho thấy lạm phát đang ảnh hưởng đến các mặt hàng hàng ngày như thế nào.</li>
+                            </ul>
+
+                            <h4>6. <strong>Sự Chuyển Đổi Không Thể Tránh Khỏi sang Bitcoin</strong></h4>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Bitcoin được xem là giải pháp cho cuộc khủng hoảng tài chính hiện tại, một biện pháp phòng ngừa chống siêu lạm phát, và là lựa chọn khả thi duy nhất cho một tương lai tiền tệ vững chắc.</li>
+                                <li><strong>Ví Dụ</strong>: Trái ngược với các đồng tiền pháp định, Bitcoin hoạt động trên nguồn cung cố định, miễn nhiễm với các thực hành thao túng của các ngân hàng trung ương và chính phủ, cung cấp một giải pháp thay thế ổn định và minh bạch cho hệ thống tài chính truyền thống.</li>
+                            </ul>
+
+                            <h2 class="fw-bolder mb-4 mt-5">C. <a href="https://medium.com/@luke.mikic88/a-brief-overview-of-the-fall-of-the-traditional-system-and-potential-fix-bitcoin-121d56d7dca1">Kết Luận về Sự Sụp Đổ của Hệ Thống (Truyền Thống) và Giải Pháp Tiềm Năng (Bitcoin)</a></h2>
+
+                            <h3>1. <strong>Thất Bại Lịch Sử của Tiền Pháp Định</strong></h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Tiền pháp định trong lịch sử có tuổi thọ giới hạn và dễ bị sụp đổ. Điều này rõ ràng từ sự sụp đổ của đồng Denarius của Đế chế La Mã, tương tự với các thí nghiệm tiền pháp định hiện đại.</li>
+                                <li><strong>Ví Dụ</strong>: Mỹ đã bỏ tiêu chuẩn vàng năm 1971, đánh dấu sự khởi đầu của một thí nghiệm tiền pháp định toàn cầu chưa từng có. Kể từ đó, các đồng tiền đã bị mất giá liên tục.</li>
+                            </ul>
+
+                            <h3>2. <strong>Bất Bình Đẳng Giàu Nghèo Bị Làm Trầm Trọng Bởi Tiền Pháp Định</strong></h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Sự chuyển đổi sang tiền pháp định đã góp phần vào việc gia tăng bất bình đẳng giàu nghèo bằng cách ưu tiên cho top 1%, những người nắm giữ tài sản tăng giá trị, trong khi 99,9% thấy sức mua của họ giảm đi.</li>
+                                <li><strong>Ví Dụ</strong>: Kể từ năm 1971, giá nhà và giá trị tài sản đã tăng vọt, trong khi lương bổng trì trệ, tạo ra khoảng cách giàu nghèo ngày càng rộng.</li>
+                            </ul>
+
+                            <h3>3. <strong>Bong Bóng Tài Sản và Nợ Nần</strong></h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Chính sách tiền tệ dễ dãi đã thúc đẩy bong bóng tài sản và tích lũy nợ, dẫn đến sự bất ổn tài chính.</li>
+                                <li><strong>Ví Dụ</strong>: Sự sụp đổ thị trường nhà ở năm 2008 và "bong bóng tất cả" tiếp theo là triệu chứng của một vấn đề lớn hơn, nơi các ngân hàng trung ương tiếp tục thổi phồng thị trường thông qua nới lỏng định lượng (QE).</li>
+                            </ul>
+
+                            <h3>4. <strong>Sự Thao Túng của Ngân Hàng Trung Ương và Nợ Chính Phủ</strong></h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Chính phủ và ngân hàng trung ương đã thao túng thị trường để duy trì kiểm soát, nhưng điều này chỉ làm tăng thêm sự bất ổn dài hạn.</li>
+                                <li><strong>Ví Dụ</strong>: Sự can thiệp liên tục của Cục Dự trữ Liên bang vào thị trường, đặc biệt sau năm 2008, đã dẫn đến giá tài sản bị bóp méo và các công ty "xác sống" phụ thuộc vào nợ lãi suất thấp.</li>
+                            </ul>
+
+                            <h3>5. <strong>Bitcoin như Một Giải Pháp</strong></h3>
+                            <ul>
+                                <li><strong>Bài Học</strong>: Bitcoin cung cấp một giải pháp tiềm năng cho hệ thống tiền pháp định đang thất bại bằng cách cung cấp một đồng tiền phi tập trung, chống lạm phát.</li>
+                                <li><strong>Ví Dụ</strong>: Không giống như các đồng tiền pháp định, Bitcoin có nguồn cung cố định, làm cho nó trở thành một biện pháp phòng ngừa chống lạm phát và sự thao túng của chính phủ.</li>
+                            </ul>
+                        </section>
+                    </article>
+                </div>
+                <!-- Side widgets-->
+                <div class="col-lg-4">
+                    <!-- Search widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Tìm Kiếm</div>
+                        <div class="card-body">
+                            <div class="input-group">
+                                <input class="form-control" type="text" placeholder="Nhập từ khóa..." aria-label="Nhập từ khóa..." aria-describedby="button-search" />
+                                <button class="btn btn-primary" id="button-search" type="button">Tìm!</button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Categories widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Chuyên Mục</div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="#!">Kinh Tế</a></li>
+                                        <li><a href="#!">Bitcoin</a></li>
+                                        <li><a href="#!">Đầu Tư</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="#!">Công Nghệ</a></li>
+                                        <li><a href="#!">Tài Chính</a></li>
+                                        <li><a href="#!">Tin Tức</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Side widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Widget Bên</div>
+                        <div class="card-body">Bạn có thể đặt bất kỳ nội dung nào vào các widget bên này. Chúng dễ sử dụng và tích hợp với thành phần card của Bootstrap 5!</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">Bản quyền &copy; Trang Web của Bạn 2023</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
