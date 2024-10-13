@@ -1,6 +1,24 @@
-# "The 2020s Global Currency Wars: Part 1 - Is The US Empire The Best Analog for Late-Stage Rome?"
 **Author**: Luke Mikic  
-**Original Article**: [The 2020s Global Currency Wars](https://medium.com/@luke.mikic88/the-2020s-global-currency-wars-9cc6a53ff6de)
+# [The 50th Anniversary of the Fiat Fiasco 1971–2021](https://medium.com/@luke.mikic88/the-50th-anniversary-of-the-fiat-fiasco-1971-2021-121d56d7dca1)
+
+## 1. The End of the Gold Standard (WTF Happened in 1971?)
+- **Lesson**: The collapse of the gold standard in 1971 marked the beginning of the modern fiat currency system, where the dollar was no longer backed by gold. This shift allowed for unlimited money printing, leading to long-term inflationary consequences.
+- **Example**: The U.S. dollar was effectively de-pegged from gold, which caused global currencies to float freely, igniting competitive devaluation and inflation.
+
+## 2. The 1970s Inflation and CPI Manipulation
+- **Lesson**: In the 1970s, policymakers manipulated inflation metrics like the Consumer Price Index (CPI) to downplay the severity of inflation, removing key items like energy and food from the index.
+- **Example**: The official CPI inflation in the 1970s was kept artificially low despite rampant inflation, which reached cumulative rates over 100% for the decade.
+
+## 3. The Growth of Asset Bubbles
+- **Lesson**: Since the 1970s, the fiat currency system has enabled the creation of asset bubbles in sectors like housing and the stock market, fueled by artificially low interest rates and quantitative easing.
+- **Example**: The housing bubble in 2008 and the ongoing "everything bubble" in 2020 were both exacerbated by central bank policies and fiat currency devaluation.
+
+## 4. Wealth Inequality and Easy Monetary Policy
+- **Lesson**: The rich get richer while the purchasing power of the middle and lower classes declines, as fiat currencies lose value and asset prices inflate.
+- **Example**: The top 1% holds a disproportionate share of wealth because they can invest in inflation-proof assets, while the bottom 50% struggles with stagnating wages and declining purchasing power.
+
+# The 2020s Global Currency Wars: 
+## [Part 1 - Is The US Empire The Best Analog for Late-Stage Rome?](https://medium.com/@luke.mikic88/the-2020s-global-currency-wars-9cc6a53ff6de)
 
 ## 1. The Death of the Great Petrodollar Experiment
 - **Lesson**: Although the petrodollar system is facing challenges, the U.S. dollar may retain its status as the global reserve currency longer than expected.
@@ -18,51 +36,7 @@
 - **Lesson**: Nations heavily reliant on coal and traditional energy sources, such as China, are facing water crises that threaten their economic stability.
 - **Example**: China, producing 65% of the world’s smartphones, is at risk of energy grid failures due to water shortages, as coal, hydro, and nuclear power systems require substantial water.
 
-# "The 50th Anniversary of the Fiat Fiasco 1971–2021"
-- **Download Link**: [The 50th Anniversary of the Fiat Fiasco 1971–2021](sandbox:/mnt/data/The%2050th%20anniversary%20of%20the%20Fiat%20Fiasco%201971%E2%80%932021%20_%20by%20Luke%20Mikic%20_%20Medium.pdf)
-- **Author**: Luke Mikic
-- 
-## 1. The End of the Gold Standard (WTF Happened in 1971?)
-- **Lesson**: The collapse of the gold standard in 1971 marked the beginning of the modern fiat currency system, where the dollar was no longer backed by gold. This shift allowed for unlimited money printing, leading to long-term inflationary consequences.
-- **Example**: The U.S. dollar was effectively de-pegged from gold, which caused global currencies to float freely, igniting competitive devaluation and inflation.
-
-## 2. The 1970s Inflation and CPI Manipulation
-- **Lesson**: In the 1970s, policymakers manipulated inflation metrics like the Consumer Price Index (CPI) to downplay the severity of inflation, removing key items like energy and food from the index.
-- **Example**: The official CPI inflation in the 1970s was kept artificially low despite rampant inflation, which reached cumulative rates over 100% for the decade.
-
-## 3. The Growth of Asset Bubbles
-- **Lesson**: Since the 1970s, the fiat currency system has enabled the creation of asset bubbles in sectors like housing and the stock market, fueled by artificially low interest rates and quantitative easing.
-- **Example**: The housing bubble in 2008 and the ongoing "everything bubble" in 2020 were both exacerbated by central bank policies and fiat currency devaluation.
-
-## 4. Wealth Inequality and Easy Monetary Policy
-- **Lesson**: The rich get richer while the purchasing power of the middle and lower classes declines, as fiat currencies lose value and asset prices inflate.
-- **Example**: The top 1% holds a disproportionate share of wealth because they can invest in inflation-proof assets, while the bottom 50% struggles with stagnating wages and declining purchasing power.
-
-# "A Brief Overview of the Fall of the Traditional System and Potential Fix (Bitcoin)" by Luke Mikic
-- [Read More](https://medium.com/@luke.mikic88/a-brief-overview-of-the-fall-of-the-traditional-system-and-potential-fix-bitcoin-121d56d7dca1)
-
-## 1. **Historical Failures of Fiat Currency**
-   - **Lesson**: Fiat currencies historically have a limited lifespan and are prone to collapse. This is evident from the collapse of the Roman Empire's Denarius, which parallels modern fiat currency experiments.
-   - **Example**: The US abandoned the gold standard in 1971, marking the start of an unprecedented global fiat experiment. Since then, currencies have been continuously devalued. 
-
-## 2. **Wealth Inequality Exacerbated by Fiat Currency**
-   - **Lesson**: The shift to fiat currency has contributed to growing wealth inequality by favoring the top 1%, who hold their wealth in assets that increase in value, while the 99.9% see their purchasing power diminish.
-   - **Example**: Since 1971, house prices and asset values have skyrocketed, while wages have stagnated, creating an ever-widening wealth gap.
-   
-## 3. **Asset Bubbles and Debt**
-   - **Lesson**: Easy monetary policy has fueled asset bubbles and debt accumulation, leading to financial instability.
-   - **Example**: The 2008 housing market collapse and subsequent "everything bubble" are symptoms of a larger issue, where central banks continue to inflate markets through quantitative easing (QE).
- 
-## 4. **Central Bank Manipulation and Government Debt**
-   - **Lesson**: Governments and central banks have been manipulating markets to maintain control, but this only increases long-term instability.
-   - **Example**: The Federal Reserve's continuous intervention in the market, particularly after 2008, has led to distorted asset prices and zombie corporations reliant on low-interest debt.
- 
-## 5. **Bitcoin as a Solution**
-   - **Lesson**: Bitcoin offers a potential solution to the failing fiat system by providing a decentralized, inflation-resistant currency.
-   - **Example**: Unlike fiat currencies, Bitcoin has a fixed supply, making it a hedge against inflation and government manipulation.
- 
-# Bitcoin - The Big Bang to End all Cycles
-### By Luke Mikic | [Medium Article](https://medium.com/@luke.mikic88/bitcoin-the-big-bang-to-end-all-cycles-80da5a0e3b55)
+## [Part 2 - Bitcoin - The Big Bang to End all Cycles](https://medium.com/@luke.mikic88/bitcoin-the-big-bang-to-end-all-cycles-80da5a0e3b55)
 
 ## 1. **Understanding the Long Term Debt Cycle**
    - *Lesson:* The long-term debt cycle is an essential concept to grasp in macroeconomics. Ray Dalio popularized this in his book "Big Debt Crises." This cycle drives economic growth and downturns over periods that last 75–100 years.
@@ -87,3 +61,28 @@
 ## 6. **The Inevitable Shift to Bitcoin**
    - *Lesson:* Bitcoin is seen as the solution to the current financial crisis, a hedge against hyperinflation, and the only viable option for a sound monetary future.
    - *Example:* In contrast to fiat currencies, Bitcoin operates on a fixed supply, immune to the manipulative practices of central banks and governments, offering a stable and transparent alternative to the traditional financial system.
+
+
+# A Brief Overview of the Fall of the Traditional System and Potential Fix (Bitcoin)
+[Read More](https://medium.com/@luke.mikic88/a-brief-overview-of-the-fall-of-the-traditional-system-and-potential-fix-bitcoin-121d56d7dca1)
+
+## 1. **Historical Failures of Fiat Currency**
+   - **Lesson**: Fiat currencies historically have a limited lifespan and are prone to collapse. This is evident from the collapse of the Roman Empire's Denarius, which parallels modern fiat currency experiments.
+   - **Example**: The US abandoned the gold standard in 1971, marking the start of an unprecedented global fiat experiment. Since then, currencies have been continuously devalued. 
+
+## 2. **Wealth Inequality Exacerbated by Fiat Currency**
+   - **Lesson**: The shift to fiat currency has contributed to growing wealth inequality by favoring the top 1%, who hold their wealth in assets that increase in value, while the 99.9% see their purchasing power diminish.
+   - **Example**: Since 1971, house prices and asset values have skyrocketed, while wages have stagnated, creating an ever-widening wealth gap.
+   
+## 3. **Asset Bubbles and Debt**
+   - **Lesson**: Easy monetary policy has fueled asset bubbles and debt accumulation, leading to financial instability.
+   - **Example**: The 2008 housing market collapse and subsequent "everything bubble" are symptoms of a larger issue, where central banks continue to inflate markets through quantitative easing (QE).
+ 
+## 4. **Central Bank Manipulation and Government Debt**
+   - **Lesson**: Governments and central banks have been manipulating markets to maintain control, but this only increases long-term instability.
+   - **Example**: The Federal Reserve's continuous intervention in the market, particularly after 2008, has led to distorted asset prices and zombie corporations reliant on low-interest debt.
+ 
+## 5. **Bitcoin as a Solution**
+   - **Lesson**: Bitcoin offers a potential solution to the failing fiat system by providing a decentralized, inflation-resistant currency.
+   - **Example**: Unlike fiat currencies, Bitcoin has a fixed supply, making it a hedge against inflation and government manipulation.
+ 
