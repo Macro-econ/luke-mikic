@@ -1,5 +1,5 @@
-**Author**: Luke Mikic  
-# [The 50th Anniversary of the Fiat Fiasco 1971–2021](https://medium.com/@luke.mikic88/the-50th-anniversary-of-the-fiat-fiasco-1971-2021-121d56d7dca1)
+# A Brief Overview of the Fall of the Traditional System and Potential Fix (Bitcoin) by Luke Mikic  
+# A. [The 50th Anniversary of the Fiat Fiasco 1971–2021](https://medium.com/@luke.mikic88/the-50th-anniversary-of-the-fiat-fiasco-1971-2021-121d56d7dca1)
 
 ## 1. The End of the Gold Standard (WTF Happened in 1971?)
 - **Lesson**: The collapse of the gold standard in 1971 marked the beginning of the modern fiat currency system, where the dollar was no longer backed by gold. This shift allowed for unlimited money printing, leading to long-term inflationary consequences.
@@ -17,7 +17,7 @@
 - **Lesson**: The rich get richer while the purchasing power of the middle and lower classes declines, as fiat currencies lose value and asset prices inflate.
 - **Example**: The top 1% holds a disproportionate share of wealth because they can invest in inflation-proof assets, while the bottom 50% struggles with stagnating wages and declining purchasing power.
 
-# The 2020s Global Currency Wars: 
+# B. The 2020s Global Currency Wars: 
 ## [Part 1 - Is The US Empire The Best Analog for Late-Stage Rome?](https://medium.com/@luke.mikic88/the-2020s-global-currency-wars-9cc6a53ff6de)
 
 ## 1. The Death of the Great Petrodollar Experiment
@@ -62,9 +62,7 @@
    - *Lesson:* Bitcoin is seen as the solution to the current financial crisis, a hedge against hyperinflation, and the only viable option for a sound monetary future.
    - *Example:* In contrast to fiat currencies, Bitcoin operates on a fixed supply, immune to the manipulative practices of central banks and governments, offering a stable and transparent alternative to the traditional financial system.
 
-
-# A Brief Overview of the Fall of the Traditional System and Potential Fix (Bitcoin)
-[Read More](https://medium.com/@luke.mikic88/a-brief-overview-of-the-fall-of-the-traditional-system-and-potential-fix-bitcoin-121d56d7dca1)
+# C. [A conclusion for falling (traditional) system and Potential Fix (Bitcoin)](https://medium.com/@luke.mikic88/a-brief-overview-of-the-fall-of-the-traditional-system-and-potential-fix-bitcoin-121d56d7dca1)
 
 ## 1. **Historical Failures of Fiat Currency**
    - **Lesson**: Fiat currencies historically have a limited lifespan and are prone to collapse. This is evident from the collapse of the Roman Empire's Denarius, which parallels modern fiat currency experiments.
